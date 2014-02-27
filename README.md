@@ -1,4 +1,4 @@
-sfeir-logo
+SFEIR Logo
 ==========
 
-Animated Sfeir Logo
+[Animated Sfeir Logo](http://ggirou.github.io/sfeir-logo/)
